@@ -1,4 +1,8 @@
 [{
   "base_url":"https://ecupro1.tech",
   "is_main":true
+},
+{
+  "base_url":"https://service.ecupro1.com/2dcb68f4c4699b9f5dbad466c175d7a6",
+  "is_main":false
 }]
